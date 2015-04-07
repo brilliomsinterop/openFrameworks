@@ -1,6 +1,7 @@
 [openFrameworks](http://openframeworks.cc/)
 ================
 openFrameworks is a C++ toolkit for creative coding
+openFrameworks is a C++ toolkit for creative coding
 
 Download
 --------
